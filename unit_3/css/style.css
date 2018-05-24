@@ -18,3 +18,7 @@ h3{
 img{ 
 	border: 2px solid #000000;
 }
+ul{
+	text-align: left;
+	color: #343a61;
+}
