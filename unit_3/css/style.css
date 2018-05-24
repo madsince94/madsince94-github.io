@@ -1,13 +1,17 @@
 body{
 	color: #e5744c;
 	font-family: arial, sans-sarif;
+	text-align: center;
 }
 h1{
 	color: #343a61;
+	font-weight: bold;
 }
 h3{
 	color: #343a61
 }
 #slogan{
 	font-style: italic;
+	text-align: center;
+	font-weight: bold;
 }
